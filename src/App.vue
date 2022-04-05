@@ -1,7 +1,14 @@
+<!--
+ * @Author: renlei
+ * @Date: 2022-04-03 15:43:28
+ * @LastEditors: renlei
+ * @LastEditTime: 2022-04-04 17:21:15
+ * @Description: 
+-->
 <script setup>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
 </script>
 
 <template>
